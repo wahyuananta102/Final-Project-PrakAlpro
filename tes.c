@@ -2,7 +2,7 @@
 int main()
 {
     
-    printf("Program Membuat Inventori");
+    printf("Program Membuat Inventori"); 
     switch (pilihan)
     {
     case 1:
